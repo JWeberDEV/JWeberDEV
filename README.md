@@ -1,8 +1,9 @@
 ## Olá me chamo Josias e sou um desenvolvedor web!🤝
 
 <div style="display: inline_block">
-<a href="https://www.linkedin.com/in/josias-weber-65a7b2171/" target="_blank"><img align="center" alt="html5" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/><a/>
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/in/josias-weber-65a7b2171/)
+<a href="https://www.linkedin.com/in/josias-weber-65a7b2171/" target="_blank"><img align="center" alt="html5" target="_blank"src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/><a/>
+
+<a href="https://www.instagram.com/weberjosias1/" target="_blank"><img align="center" alt="html5" target="_blank"src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/><a/>
 <div/>
 ##
 
