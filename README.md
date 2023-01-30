@@ -4,6 +4,8 @@
 
 ![Josias's GitHub stats](https://github-readme-stats.vercel.app/api?username=JWeberDEV&show_icons=true&theme=dracula)
 
+ ##
+
 ### Tecnologias que tenho contato
 
 <div style="display: inline_block"><br/>
@@ -21,7 +23,7 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
 <div/>
 
-###
+ ##
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JWeberDEV&layout=compact&langs_count=16&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
