@@ -23,6 +23,6 @@
 
 ###
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JWeberDEV&layout=compact&langs_count=16&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-### Atualmente trabalho como um desenvolvedor usando as skills, além de estar em busca de novas esperiências
+### Atualmente trabalho como um desenvolvedor usando e aprimorandp as minhas skills, além de estar em busca de novas esperiências. 🧑‍💻
