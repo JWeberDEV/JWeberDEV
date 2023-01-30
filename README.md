@@ -1,14 +1,14 @@
-### Olá me chamo Josias e sou um desenvolvedor web!🤝
+## Olá me chamo Josias e sou um desenvolvedor web!🤝
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josias-weber-65a7b2171/)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/in/josias-weber-65a7b2171/)
 
 
-[![Josias's GitHub stats](https://github-readme-stats.vercel.app/api?username=JWeberDEV&show_icons=true&theme=dracula)]
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JWeberDEV&layout=compact&langs_count=16&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JWeberDEV&show_icons=true&theme=dracula">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JWeberDEV&layout=compact&langs_count=16&theme=dracula)](https://github.com/anuraghazra/github-readme-stats">
+</div>
 
  ##
 
