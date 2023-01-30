@@ -4,10 +4,12 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/in/josias-weber-65a7b2171/)
 
-<div>
+
 [![Josias's GitHub stats](https://github-readme-stats.vercel.app/api?username=JWeberDEV&show_icons=true&theme=dracula)]
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JWeberDEV&layout=compact&langs_count=16&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-<div/>
+
+
  ##
 
 ### Tecnologias que tenho contato
