@@ -31,4 +31,4 @@
 
  ##
 
-### Atualmente trabalho como um desenvolvedor usando e aprimorandp as minhas skills, além de estar em busca de novas esperiências. 🧑‍💻
+### Atualmente trabalho como um desenvolvedor usando e aprimorando as minhas skills, além de estar em busca de novas esperiências. 🧑‍💻
