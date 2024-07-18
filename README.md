@@ -36,17 +36,17 @@ Echo ' Hello, World! ';
 
 console.log('
 
- Me chamo Josias, sou uma pessoa técnica, de boa lógica e busco facilitar a vida das pessoas com 
- minhas linhas de código!
+   Me chamo Josias, sou uma pessoa técnica, de boa lógica e busco facilitar a vida das pessoas com 
+   minhas linhas de código!
 
- Sou desenvolvedor Full Stack a 3 anos, sempre em busca de novos conhecimentos. Tenho a ciência de 
- que a cada conhecimento adquirido, um gama de novos conceitos surgem, para serem adquiridos.
+   Sou desenvolvedor Full Stack a 3 anos, sempre em busca de novos conhecimentos. Tenho a ciência de 
+   que a cada conhecimento adquirido, um gama de novos conceitos surgem, para serem adquiridos.
  
 ');
 
 print_r('
 
- A tecnologia não para. Nós emos que nos adaptar!
+   A tecnologia não para. Nós emos que nos adaptar!
  
 ');
 
