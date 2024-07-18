@@ -35,18 +35,23 @@
 Echo ' Hello, World! ';
 
 console.log('
+
  Me chamo Josias, sou uma pessoa técnica, de boa lógica e busco facilitar a vida das pessoas com 
  minhas linhas de código!
 
  Sou desenvolvedor Full Stack a 3 anos, sempre em busca de novos conhecimentos. Tenho a ciência de 
  que a cada conhecimento adquirido, um gama de novos conceitos surgem, para serem adquiridos.
+ 
 ');
 
 print_r('
+
  A tecnologia não para. Nós emos que nos adaptar!
+ 
 ');
 
 SELECT * FROM Josias 
+
 • Linguágens: JavaScript | PHP | SQL | HTML | CSS
 • Frameworks: Bootsrap | React
 • Github: https://github.com/JWeberDEV
