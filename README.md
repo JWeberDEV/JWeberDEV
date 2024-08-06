@@ -54,5 +54,4 @@ SELECT * FROM Josias
 
 • Linguágens: JavaScript | PHP | SQL | HTML | CSS
 • Frameworks: Bootsrap | React
-• Github: https://github.com/JWeberDEV
 • Contato: weberjosias1@gmail.com
