@@ -46,7 +46,7 @@ console.log('
 
 print_r('
 
-   A tecnologia não para. Nós emos que nos adaptar!
+   A tecnologia não para. Nós devemos nos adaptar!
  
 ');
 
