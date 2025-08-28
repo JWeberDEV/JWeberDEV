@@ -32,7 +32,7 @@
  ##
 
 ### 
-# 👋 Hello, World! Eu sou Josias Weber  
+# 👋 Hello, World!
 
 ```js
 console.log("Desenvolvedor Full Stack | 4+ anos de experiência");
