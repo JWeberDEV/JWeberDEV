@@ -32,26 +32,32 @@
  ##
 
 ### 
-Echo ' Hello, World! ';
+# 👋 Hello, World! Eu sou Josias Weber  
 
-console.log('
+```js
+console.log("Desenvolvedor Full Stack | 4+ anos de experiência");
 
-   Me chamo Josias, sou uma pessoa técnica, de boa lógica e busco facilitar a vida das pessoas com 
-   minhas linhas de código!
-
-   Sou desenvolvedor Full Stack a 3 anos, sempre em busca de novos conhecimentos. Tenho a ciência de 
-   que a cada conhecimento adquirido, um gama de novos conceitos surgem, para serem adquiridos.
- 
+Return('
+    💻 Apaixonado por tecnologia, lógica e soluções que facilitam a vida das pessoas.
+    Sempre em busca de novos conhecimentos, pois sei que a cada aprendizado surgem novos desafios e oportunidades.
 ');
 
 print_r('
-
-   A tecnologia não para. Nós devemos nos adaptar!
- 
+   📢 A tecnologia não para. Nós devemos nos adaptar!
 ');
 
-SELECT * FROM Josias 
+SELECT * FROM desenvolvedores
+WHERE nome = 'Josias Weber'
+AND especialidade = 'Full Stack';
 
-• Linguágens: JavaScript | PHP | SQL | HTML | CSS
+🛠️ Minhas Tecnologias
+
+💻 Linguagens
+JS | TS | PHP | SQL | HTML | CSS
+⚙ Frameworks e Bibliotecas
 • Frameworks: Bootsrap | React
-• Contato: weberjosias1@gmail.com
+
+📫 Como me encontrar
+📧 E-mail: weberjosias1@gmail.com
+🌐 LinkedIn: [linkedin.com/in/josiasweber](https://www.linkedin.com/in/josias-weber-65a7b2171/)
+📞 Comercial: +55519490-2991
