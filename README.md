@@ -55,7 +55,7 @@ AND especialidade = 'Full Stack';
 💻 Linguagens
 JS | TS | PHP | SQL | HTML | CSS
 ⚙ Frameworks e Bibliotecas
-• Frameworks: Bootsrap | React
+Bootsrap | React
 
 📫 Como me encontrar
 📧 E-mail: weberjosias1@gmail.com
