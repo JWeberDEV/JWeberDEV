@@ -1,15 +1,16 @@
 ## Olá, 👋 me chamo Josias e estou desenvolvedor web!🤝
 
 <div style="display: inline-block;">
-<a href="https://www.linkedin.com/in/josias-weber-65a7b2171/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://www.instagram.com/weberjosias1/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/josias-weber-65a7b2171/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://www.instagram.com/weberjosias1/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://josiasweber.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=white" target="_blank"></a>
 </div>
 
 </br>
 
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JWeberDEV&show_icons=true&theme=dark#gh-dark-mode-only"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JWeberDEV&layout=donut-vertical&theme=dark#gh-dark-mode-only"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JWeberDEV&show_icons=true&count_private=true&include_all_commits=true&theme=dark#gh-dark-mode-only"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JWeberDEV&layout=compact&theme=dark#gh-dark-mode-only"/>
 </div>
 
 
