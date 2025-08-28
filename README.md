@@ -59,5 +59,5 @@ Bootsrap | React
 
 📫 Como me encontrar
 📧 E-mail: weberjosias1@gmail.com
-🌐 LinkedIn: [linkedin.com/in/josiasweber](https://www.linkedin.com/in/josias-weber-65a7b2171/)
+🌐 LinkedIn: https://www.linkedin.com/in/josias-weber-65a7b2171
 📞 Comercial: +55519490-2991
