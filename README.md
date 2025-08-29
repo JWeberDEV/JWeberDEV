@@ -37,4 +37,4 @@
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://josiasweber.vercel.app/)
 
 📧 **E-mail:** weberjosias1@gmail.com  
-📞 **WhatsApp Comercial:** +55 (51) 9 490-2991
+📞 **WhatsApp Comercial:** +55 (51) 9 9490-2991
