@@ -9,7 +9,7 @@
 </br>
 
 <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JWeberDEV&show_icons=true&count_private=true&include_all_commits=true&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JWeberDEV&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JWeberDEV&layout=compact&theme=dark&hide_border=true&"/>
 </div>
 
